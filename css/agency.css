@@ -215,7 +215,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: #ffffff;
-  background-image: url("https://source.unsplash.com/RCAhiGJsUUE");
+  background-image: url("../img/background-image.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
